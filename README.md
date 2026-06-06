@@ -4,3 +4,10 @@ Mini Universe Builder is an interactive 3D physics sandbox where users can creat
 
 Users can click to spawn planets with random mass, size, and initial velocity, then observe how gravity shapes their motion over time. When planets collide, they trigger explosion effects, which is very cool! Do have some fun with the project.
 
+## To run
+
+```
+cd planet-together
+npm install
+npm run dev
+```
